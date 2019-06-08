@@ -24,3 +24,10 @@ $$
 $$
 h_{t} = tanh \begin{pmatrix} W \begin{pmatrix} h_{t-1} \ x_{t} \end{pmatrix} \end{pmatrix}
 $$
+
+I believe in-line equations also works, like $$\nabla\cdot E$$ is divergence
+of electric field.
+
+$$
+\nabla \cdot E = \frac{\rho}{\epsilon}
+$$
