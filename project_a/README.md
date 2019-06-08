@@ -28,8 +28,6 @@ $$
 I believe in-line equations also works, like $$\nabla\cdot E$$ is divergence
 of electric field.
 
-$$
-\nabla \cdot E = \frac{\rho}{\epsilon}
-$$
+$$\nabla \cdot E = \frac{\rho}{\epsilon}$$
 
-How about this inline? $a + b$
+
