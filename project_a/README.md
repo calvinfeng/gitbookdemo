@@ -31,3 +31,5 @@ of electric field.
 $$
 \nabla \cdot E = \frac{\rho}{\epsilon}
 $$
+
+How about this inline? \(a + b\)
