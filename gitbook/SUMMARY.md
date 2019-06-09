@@ -1,10 +1,13 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Active Projects
 
-* [Project A](../project_a/README.md)
-* [Project B](../project_b/README.md)
+* [Project A](active-projects/project_a.md)
+* [Project B](active-projects/project_b.md)
 
 ## Past Projects
 
-* [Project C](../project_c/README.md)
+* [Project C](past-projects/project_c.md)
+

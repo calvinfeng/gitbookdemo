@@ -1,16 +1,8 @@
-# GitBook Demo
+# Introduction
 
-This is an example of how to sync GitHub with GitBook. Here you will find documentation of all
-projects.
+This is an example of how to sync GitHub with GitBook. Here you will find documentation of all projects.
 
-Ut at est a dui efficitur finibus. Pellentesque ex massa, cursus non sagittis quis, porta vitae nunc.
-Mauris sodales quis purus nec dapibus. Nam nec arcu ac est dapibus rutrum. Donec pellentesque, libero
-a egestas pellentesque, justo nibh eleifend lectus, vitae bibendum est nulla ut ex. In scelerisque
-volutpat ligula. Suspendisse sodales mi sed dui aliquam, eu feugiat massa malesuada. Nullam odio arcu,
-maximus non ex vel, semper tristique lectus. Vivamus consectetur enim felis, sed posuere velit lacinia
-et. Sed at eros sodales diam egestas efficitur fermentum eget nisl. Suspendisse id tempus ligula.
-Aliquam in dignissim eros. Fusce aliquet purus turpis, sit amet vestibulum metus volutpat vel. Ut
-finibus gravida nulla et vehicula.
+Ut at est a dui efficitur finibus. Pellentesque ex massa, cursus non sagittis quis, porta vitae nunc. Mauris sodales quis purus nec dapibus. Nam nec arcu ac est dapibus rutrum. Donec pellentesque, libero a egestas pellentesque, justo nibh eleifend lectus, vitae bibendum est nulla ut ex. In scelerisque volutpat ligula. Suspendisse sodales mi sed dui aliquam, eu feugiat massa malesuada. Nullam odio arcu, maximus non ex vel, semper tristique lectus. Vivamus consectetur enim felis, sed posuere velit lacinia et. Sed at eros sodales diam egestas efficitur fermentum eget nisl. Suspendisse id tempus ligula. Aliquam in dignissim eros. Fusce aliquet purus turpis, sit amet vestibulum metus volutpat vel. Ut finibus gravida nulla et vehicula.
 
 ## Configuration
 
@@ -33,7 +25,7 @@ gitbook/
 
 The summary creates an outline of the book.
 
-```markdown
+```text
 # Summary
 
 ## Active Projects
@@ -45,3 +37,4 @@ The summary creates an outline of the book.
 
 * [Project C](../project_c/README.md)
 ```
+
