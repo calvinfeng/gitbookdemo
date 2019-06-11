@@ -6,7 +6,8 @@
 
 * [Project A](active-projects/project_a.md)
 * [Project B](active-projects/project_b.md)
-* [API](active-projects/untitled.md)
+* [API](active-projects/api/README.md)
+  * [Sub API](active-projects/api/sub_api.md)
 
 ## Past Projects
 
