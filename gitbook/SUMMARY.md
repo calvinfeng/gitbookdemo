@@ -8,6 +8,7 @@
 * [Project B](active-projects/project_b.md)
 * [API](active-projects/api/README.md)
   * [Sub API](active-projects/api/sub_api.md)
+  * [Some Random Example](active-projects/api/some-random-example.md)
 
 ## Past Projects
 
